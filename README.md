@@ -2,7 +2,14 @@
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+https://stackoverflow.com/a/20597108
+https://stackoverflow.com/a/9245510
+https://stackoverflow.com/a/23435877
+
+Notes:
+- None of the above helped
+- File too large so project was zipped
+- solution more simplier than expected...
 
 ## Verbal Collaboration
 
